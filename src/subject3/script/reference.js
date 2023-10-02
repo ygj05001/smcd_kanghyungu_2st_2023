@@ -1,3 +1,4 @@
+```javascript
 const reference = [
   {
     author: "",
@@ -6,4 +7,5 @@ const reference = [
     sourceTitle: "",
     link: "",
   },
-];
+]
+```;
